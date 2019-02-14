@@ -1,0 +1,13 @@
+img {
+    margin-bottom: 5pt;
+    margin-top: 5pt;
+    margin-right: 10pt;
+}
+
+table {
+    align-self: center;
+}
+
+td {
+    text-align: left;
+}
